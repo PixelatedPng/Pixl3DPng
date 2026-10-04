@@ -1,0 +1,8 @@
+{
+  "name": "Pixelated3DPng - Modellatore Geometrico & Analizzatore Planarità",
+  "description": "Visualizzatore e modellatore 3D interattivo per punti e poligoni con viste ortogonali sugli assi, rilevamento torsioni e non-planarità, correzione automatica ed esportazione OBJ.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
